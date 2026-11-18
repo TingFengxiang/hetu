@@ -1,0 +1,16 @@
+.training/
+.preview/
+*.zip
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+*.safetensors
+*.bin
+*.gguf
+*.onnx
+*.pt
+*.pth
+/dist/assets/bird-detector-data.js
+/dist/assets/bird-model.js
